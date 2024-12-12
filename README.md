@@ -34,3 +34,9 @@ This Excel-based sales dashboard provides insights into sales performance, profi
 - Customization:
   - Modify the Working sheet for additional calculations or KPIs.
   - Adjust visualizations in the Dashboard sheet as per business requirements.
+
+### Key Features:
+- Comprehensive Visualization: Sales and profit metrics displayed through charts and tables.
+- Trend Analysis: Year-over-year comparisons to track growth.
+- Ease of Use: Update data and refresh insights with minimal effort.
+- Customizable: Easily adaptable to include additional metrics or filters.
